@@ -50,11 +50,7 @@ To get started with GestureVision, follow these steps:
 
 ## Credits
 
-This project is inspired by the work of Nicholas Renotte, who has created educational content and examples related to hand tracking and TensorFlow.js.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is inspired by the work of [Nicholas Renotte](https://github.com/nicknochnack), who has created educational content and examples related to hand tracking and TensorFlow.js.
 
 ## Acknowledgements
 
@@ -62,3 +58,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - TensorFlow.js - An open-source library for machine learning in JavaScript.
 - Handpose Model - A TensorFlow.js model for hand tracking.
 - react-webcam - A React component for accessing the webcam.
+
+Feel free to contribute to this project by submitting issues or pull requests!
